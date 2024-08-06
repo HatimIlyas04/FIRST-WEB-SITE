@@ -19,3 +19,4 @@ Welcome to my first web site repository! 🎨 This project showcases a simple ye
 1. **Clone the Repository** 📥
    ```bash
    git clone https://github.com/HatimIlyas04/FIRST-WEB-SITE.git
+   cd FIRST-WEB-SITE
